@@ -1,0 +1,31 @@
+CREATE TABLE maquina (
+    id_maquina SERIAL PRIMARY KEY,
+    Processador VARCHAR(100), -- tipo de processador 
+    frequencia_processador VARCHAR(100), --dito 
+    cache_processador  VARCHAR(100), -- dito
+    RAM VARCHAR(100), -- quantidade de memória RAM
+    SO VARCHAR(100) --Sistema operacional utilizado
+
+);
+
+CREATE TABLE resultados (
+    id_resultados SERIAL PRIMARY KEY,
+    id_maquina_a INT,
+    Algoritmo Text , -- algoritmo de ordenação utilizado
+    Cenario Text, -- tipo de ordenação que o algoritimo está executando
+    TempoExecucao BIGINT , -- Tempo de execução em milissegundosid_resultados SERIAL PRIMARY KEY,
+    FOREIGN KEY (id_maquina_a) REFERENCES maquina (id_maquina) -- chave estrangeira
+);
+
+insert into maquina (Processador,frequencia_processador,cache_processador, RAM, SO) 
+values ('intel core i5 10gen','2,9GHz','12MB','16GB','Windows 11');
+
+insert into maquina (Processador,frequencia_processador,cache_processador, RAM, SO) 
+values ('intel core i5 12500h','3,12 GHz','18MB','8GB','Windows 11');
+
+insert into maquina (Processador,frequencia_processador,cache_processador, RAM, SO) 
+values ('ryzen 5 1600','3,2GHz','19MB','16GB','Windows 10');
+
+SELECT maquina.Processador, resultados.Cenario, resultados.Algoritmo
+FROM maquina
+JOIN resultados ON maquina.id_maquina = resultados.id_maquina_a;
