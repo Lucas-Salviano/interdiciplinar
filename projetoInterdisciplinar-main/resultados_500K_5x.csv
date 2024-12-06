@@ -1,0 +1,81 @@
+Algoritmo,Cenario,TempoExecucao
+Bubble Sort,Cenário 1 - Vetor ordenado crescente,2909628206
+Merge Sort,Cenário 1 - Vetor ordenado crescente,197961
+Quick Sort,Cenário 1 - Vetor ordenado crescente,196491
+Shell Sort,Cenário 1 - Vetor ordenado crescente,648774
+Bubble Sort,Cenário 1 - Vetor ordenado crescente,2889147190
+Merge Sort,Cenário 1 - Vetor ordenado crescente,163931
+Quick Sort,Cenário 1 - Vetor ordenado crescente,168477
+Shell Sort,Cenário 1 - Vetor ordenado crescente,643976
+Bubble Sort,Cenário 1 - Vetor ordenado crescente,2751521485
+Merge Sort,Cenário 1 - Vetor ordenado crescente,151595
+Quick Sort,Cenário 1 - Vetor ordenado crescente,164931
+Shell Sort,Cenário 1 - Vetor ordenado crescente,647924
+Bubble Sort,Cenário 1 - Vetor ordenado crescente,2816917748
+Merge Sort,Cenário 1 - Vetor ordenado crescente,151106
+Quick Sort,Cenário 1 - Vetor ordenado crescente,163745
+Shell Sort,Cenário 1 - Vetor ordenado crescente,634641
+Bubble Sort,Cenário 1 - Vetor ordenado crescente,2752617027
+Merge Sort,Cenário 1 - Vetor ordenado crescente,151019
+Quick Sort,Cenário 1 - Vetor ordenado crescente,162389
+Shell Sort,Cenário 1 - Vetor ordenado crescente,634487
+Bubble Sort,Cenário 2 - Vetor ordenado decrescente,2762117778
+Merge Sort,Cenário 2 - Vetor ordenado decrescente,155468
+Quick Sort,Cenário 2 - Vetor ordenado decrescente,176310
+Shell Sort,Cenário 2 - Vetor ordenado decrescente,685545
+Bubble Sort,Cenário 2 - Vetor ordenado decrescente,2745763021
+Merge Sort,Cenário 2 - Vetor ordenado decrescente,149057
+Quick Sort,Cenário 2 - Vetor ordenado decrescente,173218
+Shell Sort,Cenário 2 - Vetor ordenado decrescente,692860
+Bubble Sort,Cenário 2 - Vetor ordenado decrescente,2757675893
+Merge Sort,Cenário 2 - Vetor ordenado decrescente,149498
+Quick Sort,Cenário 2 - Vetor ordenado decrescente,168802
+Shell Sort,Cenário 2 - Vetor ordenado decrescente,674355
+Bubble Sort,Cenário 2 - Vetor ordenado decrescente,2756029232
+Merge Sort,Cenário 2 - Vetor ordenado decrescente,157293
+Quick Sort,Cenário 2 - Vetor ordenado decrescente,167633
+Shell Sort,Cenário 2 - Vetor ordenado decrescente,670408
+Bubble Sort,Cenário 2 - Vetor ordenado decrescente,3666728883
+Merge Sort,Cenário 2 - Vetor ordenado decrescente,380942
+Quick Sort,Cenário 2 - Vetor ordenado decrescente,224290
+Shell Sort,Cenário 2 - Vetor ordenado decrescente,830807
+Bubble Sort,Cenário 3 - Vetor aleatório,3931355592
+Merge Sort,Cenário 3 - Vetor aleatório,449850
+Quick Sort,Cenário 3 - Vetor aleatório,227404
+Shell Sort,Cenário 3 - Vetor aleatório,696661
+Bubble Sort,Cenário 3 - Vetor aleatório,2818750937
+Merge Sort,Cenário 3 - Vetor aleatório,161727
+Quick Sort,Cenário 3 - Vetor aleatório,169918
+Shell Sort,Cenário 3 - Vetor aleatório,641568
+Bubble Sort,Cenário 3 - Vetor aleatório,2803856526
+Merge Sort,Cenário 3 - Vetor aleatório,151434
+Quick Sort,Cenário 3 - Vetor aleatório,171853
+Shell Sort,Cenário 3 - Vetor aleatório,644099
+Bubble Sort,Cenário 3 - Vetor aleatório,2790669888
+Merge Sort,Cenário 3 - Vetor aleatório,153918
+Quick Sort,Cenário 3 - Vetor aleatório,172309
+Shell Sort,Cenário 3 - Vetor aleatório,635589
+Bubble Sort,Cenário 3 - Vetor aleatório,2789078111
+Merge Sort,Cenário 3 - Vetor aleatório,165624
+Quick Sort,Cenário 3 - Vetor aleatório,170472
+Shell Sort,Cenário 3 - Vetor aleatório,643615
+Bubble Sort,Cenário 4 - Vetor de strings aleatórias,3357510104
+Merge Sort,Cenário 4 - Vetor de strings aleatórias,213549
+Quick Sort,Cenário 4 - Vetor de strings aleatórias,168159
+Shell Sort,Cenário 4 - Vetor de strings aleatórias,613752
+Bubble Sort,Cenário 4 - Vetor de strings aleatórias,2904163092
+Merge Sort,Cenário 4 - Vetor de strings aleatórias,166199
+Quick Sort,Cenário 4 - Vetor de strings aleatórias,171252
+Shell Sort,Cenário 4 - Vetor de strings aleatórias,613183
+Bubble Sort,Cenário 4 - Vetor de strings aleatórias,2903593250
+Merge Sort,Cenário 4 - Vetor de strings aleatórias,150506
+Quick Sort,Cenário 4 - Vetor de strings aleatórias,168922
+Shell Sort,Cenário 4 - Vetor de strings aleatórias,602316
+Bubble Sort,Cenário 4 - Vetor de strings aleatórias,2911412409
+Merge Sort,Cenário 4 - Vetor de strings aleatórias,166892
+Quick Sort,Cenário 4 - Vetor de strings aleatórias,171862
+Shell Sort,Cenário 4 - Vetor de strings aleatórias,604475
+Bubble Sort,Cenário 4 - Vetor de strings aleatórias,2939492857
+Merge Sort,Cenário 4 - Vetor de strings aleatórias,159558
+Quick Sort,Cenário 4 - Vetor de strings aleatórias,172337
+Shell Sort,Cenário 4 - Vetor de strings aleatórias,594491
